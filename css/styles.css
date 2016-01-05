@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  color: orange;
+  font-family: sans-serif;
+}
+body {
+  background-color: lightgrey;
+  line-height: 2em;
+}
+h2 {
+  color: orange;
+}
+
+li {
+  color: green; 
+
+
+}
